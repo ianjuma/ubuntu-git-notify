@@ -10,6 +10,7 @@ Github Notifications on Ubuntu
 - [x] Kivy, pygtk GUI window
 - [x] Gevent + Guinicorn netI/O
 - [x] Requests with pygithub
+- [ ] webkit -oauth code renewal, token management
 - [ ] bash setup install
 - [ ] oauth + github sessions
 - [ ] debian packaging
