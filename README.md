@@ -15,4 +15,4 @@ Github Notifications on Ubuntu
 - [ ] oauth + github sessions
 - [ ] debian packaging
 - [ ] desktop.ini + ubuntu scope
-- [ ] github hooks
+- [ ] web services + hooks
