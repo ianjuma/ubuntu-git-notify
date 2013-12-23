@@ -1,6 +1,13 @@
 from kivy.app import App
 from kivy.uix.widget import Widget
 
+# kivy template
+# notifications
+
+class notification(Widget):
+    pass
+
+class 
 
 class PongGame(Widget):
     pass
