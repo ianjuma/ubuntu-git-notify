@@ -7,7 +7,8 @@ from kivy.uix.widget import Widget
 class notification(Widget):
     pass
 
-class 
+class MainWindow(App):
+    pass
 
 class PongGame(Widget):
     pass
