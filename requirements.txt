@@ -1,0 +1,4 @@
+requests==2.2.1
+supervisor
+nose==1.3.0
+watchdog==0.7.1
