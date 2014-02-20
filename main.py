@@ -4,23 +4,22 @@ from kivy.properties import NumericProperty, ReferenceListProperty
 from kivy.vector import Vector
 
 
-class PongBall(Widget):
-    velocity_x = NumericProperty(0)
-    velocity_y = NumericProperty(0)
-    velocity = ReferenceListProperty(velocity_x, velocity_y)
+class Events(Widget):
+    def __init__:
+        pass
 
     def move(self):
-        self.pos = Vector(*self.velocity) + self.pos
+        pass
 
 
-class PongGame(Widget):
+class Notifs(Widget):
     pass
 
 
-class PongApp(App):
+class MainServer(App):
     def build(self):
-        return PongGame()
+        return Notifs()
 
 
 if __name__ == '__main__':
-    PongApp().run()
+    MainServer().run()
