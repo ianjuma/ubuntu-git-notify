@@ -17,6 +17,13 @@ capabilities = {'actions': False,
         'private-icon-only': False}
 
 
+def mainWindow():
+    pass
+    
+def notificWin():
+    pass
+
+
 def initCaps():
     caps = pynotify.get_server_caps()
     if caps is None:
