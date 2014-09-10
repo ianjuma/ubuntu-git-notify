@@ -1,7 +1,7 @@
 ubuntu-git-notify
 =================
 
-[![BuildStatus](https://travis-ci.org/synod32/recognise.png)](https://travis-ci.org/ianjuma/recognise)
+[![BuildStatus](https://travis-ci.org/ianjuma/recognise.png)](https://travis-ci.org/ianjuma/recognise)
 
 
 Github Notifications on Ubuntu
